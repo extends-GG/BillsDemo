@@ -16,7 +16,7 @@ import util.GUIUtil;
 /**
  * 月报表
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class ReportPanel extends WorkingPanel {

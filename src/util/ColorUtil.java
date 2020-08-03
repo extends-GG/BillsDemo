@@ -5,7 +5,7 @@ import java.awt.Color;
 /**
  * 颜色工具
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class ColorUtil {

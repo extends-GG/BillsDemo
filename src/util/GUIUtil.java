@@ -18,7 +18,7 @@ import javax.swing.UIManager;
 /**
  * UI工具
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class GUIUtil {

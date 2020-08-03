@@ -11,7 +11,7 @@ import util.GUIUtil;
 /**
  * 主面板
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class MainPanel extends JPanel {

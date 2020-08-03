@@ -14,7 +14,7 @@ import util.DBUtil;
 /**
  * catebory表的ORM映射
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class CategoryDAO {

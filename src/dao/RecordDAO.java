@@ -16,7 +16,7 @@ import util.DateUtil;
 /**
  * record表的映射
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class RecordDAO {

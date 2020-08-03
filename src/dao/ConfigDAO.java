@@ -13,7 +13,7 @@ import util.DBUtil;
 /**
  * 专门用于把Config实例与Config表进行ORM映射
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class ConfigDAO {

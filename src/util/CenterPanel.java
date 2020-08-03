@@ -14,7 +14,7 @@ import gui.panel.WorkingPanel;
 /**
  * 居中面板
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class CenterPanel extends JPanel {

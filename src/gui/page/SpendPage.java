@@ -3,7 +3,7 @@ package gui.page;
 /**
  * 用于SpendPanel面板的页面类
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class SpendPage {

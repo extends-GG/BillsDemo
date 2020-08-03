@@ -18,7 +18,7 @@ import entity.Record;
 /**
  * 生成柱状图
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class ChartUtil {

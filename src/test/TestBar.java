@@ -13,7 +13,7 @@ import util.ColorUtil;
 import util.GUIUtil;
 /**
  * 主要用来做测试
- * @author 于修彦
+ * @author 
  *
  */
 public class TestBar {

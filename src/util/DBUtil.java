@@ -7,7 +7,7 @@ import java.sql.SQLException;
 /**
  * 数据库工具类
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class DBUtil {

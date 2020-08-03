@@ -17,7 +17,7 @@ import util.GUIUtil;
 /**
  * 消费面板
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class SpendPanel extends WorkingPanel {

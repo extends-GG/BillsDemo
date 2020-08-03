@@ -16,7 +16,7 @@ import util.GUIUtil;
 /**
  * 设置面板
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class ConfigPanel extends WorkingPanel {

@@ -15,7 +15,7 @@ import gui.panel.ReportPanel;
 import gui.panel.SpendPanel;
 /**
  * 工具栏监听器
- * @author 于修彦
+ * @author 
  * 
  */
 public class ToolBarListener implements ActionListener{

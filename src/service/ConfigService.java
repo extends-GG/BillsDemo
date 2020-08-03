@@ -4,7 +4,7 @@ import dao.ConfigDAO;
 import entity.Config;
 /**
  * 用于config表的服务类，该类封装ConfigDAO类的一些方法
- * @author 于修彦
+ * @author 
  *
  */
 public class ConfigService {

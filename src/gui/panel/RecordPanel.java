@@ -20,7 +20,7 @@ import util.GUIUtil;
 /**
  * 记录面板
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class RecordPanel extends WorkingPanel {

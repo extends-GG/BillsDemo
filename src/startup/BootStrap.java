@@ -9,7 +9,7 @@ import gui.panel.SpendPanel;
 import util.GUIUtil;
 /**
  * 启动入口
- * @author 于修彦
+ * @author 
  *
  */
 public class BootStrap {

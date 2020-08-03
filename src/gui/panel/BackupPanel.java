@@ -10,7 +10,7 @@ import util.GUIUtil;
 /**
  * 备份面板
  * 
- * @author 于修彦
+ * @author 
  *
  */
 public class BackupPanel extends WorkingPanel {
